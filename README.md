@@ -5,7 +5,6 @@ Detta är ett enkelt 3D-plattformsspel utvecklat i Godot med GDScript. Spelet g�
 
 ## Spelmekanik
 - **Spelarkontroll:** Spelaren styrs med WASD-tangenterna och hoppar med mellanslag.
-- **Kollision:** Spelaren, fiender och miljöobjekt har kollisionsdetektion.
 - **Fiender:** Fiender patrullerar en specifik sträcka och rör sig automatiskt.
 - **Samlarobjekt:** Mynt placeras ut i banan. När spelaren nuddar ett mynt, försvinner det och spelarens poäng ökar.
 - **Vinst-/Förlustvillkor:** Om spelaren faller under en viss nivå eller träffas av en fiende, visas en Game Over-skärm. Vid insamling av alla mynt kan ett vinstmeddelande visas.
